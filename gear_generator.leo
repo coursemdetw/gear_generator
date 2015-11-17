@@ -16,6 +16,9 @@
 </v>
 <v t="amd.20151117214643.2"><vh>@edit index.html</vh></v>
 <v t="root.20151117220211.1"><vh>@edit README.md</vh></v>
+<v t="root.20151117221230.1" a="E"><vh>@path js</vh>
+<v t="root.20151117221236.1"><vh>@edit gear_generator.js</vh></v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151117214656.1"></t>
@@ -112,5 +115,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="amd.20151117214656.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="root.20151117221230.1"></t>
 </tnodes>
 </leo_file>
