@@ -15,6 +15,7 @@
 <v t="amd.20151117214656.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20151117214643.2"><vh>@edit index.html</vh></v>
+<v t="root.20151117220211.1"><vh>@edit README.md</vh></v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151117214656.1"></t>
